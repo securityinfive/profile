@@ -1,0 +1,2 @@
+/* High-contrast text treatment for all dark site surfaces. */
+:root{--muted:#ffffff}.hero-text,.signal-main span:last-child,.visual-caption,.impact p{color:#ffffff}.pinned-projects a em{color:#ffffff}
